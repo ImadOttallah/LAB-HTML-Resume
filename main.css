@@ -1,0 +1,29 @@
+#one {
+  font-family: 'Courier New', Courier, monospace;
+  border: 10px ;
+  border-color: blanchedalmond;
+  border-style: double;
+  }
+
+#two {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 20px ;
+  border-color: teal;
+  border-style: double;
+}
+#three {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 30px ;
+  border-color: black;
+  border-style: double;
+  
+}
+h1 {
+  color: white;
+}
+body {
+  background-color: orange;
+}
+article {
+  padding: 10px;
+}
